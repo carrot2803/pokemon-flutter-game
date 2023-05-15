@@ -36,8 +36,8 @@ flutter run
 Contributions are welcome.! If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request. You can also contact me at carrot#8856 on Discord.
 
 ## Snippets
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/screenshot1.png)<br/>
+![Screenshot 2](screenshots/screenshot2.png)<br/>
 ![Screenshot 3](screenshots/screenshot3.png)
 
 ## Acknowledgments
