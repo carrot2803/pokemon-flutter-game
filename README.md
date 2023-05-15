@@ -12,10 +12,10 @@ This is a simple Pokemon application made in Flutter written in dart that allows
   <code>There are several ways to save this repository on your device. Two of these options include:</code>
 </summary>
 
-- [Downloading repository as ZIP](https://github.com/carrot2803/02-Finals-Solutions/archive/refs/heads/master.zip)
+- [Downloading repository as ZIP](https://github.com/carrot2803/pokemon-flutter-game/archive/refs/heads/master.zip)
 - Running the following command in a terminal, provided the [GitHub CLI](https://cli.github.com/) has been previously installed:
 ```sh
-git clone https://github.com/carrot2803/02-Finals-Solutions.git
+git clone https://github.com/carrot2803/pokemon-flutter-game.git
 ```
 
 <code>Install Flutter and dependencies:  </code>
