@@ -1,0 +1,77 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/docs/deployment/android#reference-the-keystore-from-the-app
+key.properties
+**/*.keystore
+**/*.jks
+
+# Flutter/Dart specific files
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.dart_tool/
+.idea/
+.vscode/
+
+# Android specific files
+**/android/gradle.properties
+**/android/local.properties
+**/android/gradle-wrapper.jar
+**/android/Flutter/build/
+**/android/.gradle/
+**/android/captures/
+
+# iOS specific files
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/Debug.xcconfig
+**/ios/Flutter/Release.xcconfig
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/.generated/
+**/ios/Runner.xcworkspace/
+**/ios/Runner.xcodeproj/
+
+# Xcode
+**/*.xcworkspace/
+**/*.xcodeproj/
+**/*.xcuserstate
+**/*.xcuserdata/
+
+# Android Studio
+**/.idea/
+**/*.iml
+**/.metadata/
+**/.gradle/
+**/gradle/
+**/gradlew
+**/gradlew.bat
+**/local.properties
+
+# Visual Studio Code
+**/.vscode/
+**/*.code-workspace
+
+# Other
+**/build/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Miscellaneous
+*.iml
+*.lock
+*.log
+*.zip
